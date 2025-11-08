@@ -1,5 +1,5 @@
 # Github-Project
-Web Development Final Project - IBM Full Stack Course
+Web Development Final Project - IBM Full Stack in Course
 # Final Project – Web Development (IBM Full Stack Software Developer)
 
 This repository contains my final project for the course **Introduction to Web Development with HTML, CSS, and JavaScript**.
